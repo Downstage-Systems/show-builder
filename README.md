@@ -8,6 +8,7 @@ As a Blackmagic ATEM user, I got tired of rebuilding the same multi-step, feedba
 
 It grew from there:
 
+- **Send straight to Companion:** put a page directly onto a Companion page, with no fiddling in the import/export screen
 - **Ready-made recipes:** source keys for each M/E and mode, flying keys, T-bar dials, SuperSource boxes, tally keys and combo keys, plus a wizard for building new ones
 - **Saved shows:** keep every deck and page for a gig in one file, and open it for the next one
 - **Multiple decks:** lay out several Stream Decks side by side, with a Home page that builds its own navigation
