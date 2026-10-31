@@ -1,6 +1,26 @@
 # Downstage Show Builder
 
-Build Bitfocus Companion pages for ATEM switchers. A Mac app from Downstage Systems.
+Get your Bitfocus Companion pages 90% of the way there, fast. A free Mac app from Downstage Systems.
+
+## Why I built it
+
+As a Blackmagic ATEM user, I got tired of rebuilding the same multi-step, feedback-driven buttons every time a show's sources changed. So I started working on a recipe-based editor: pick what a key should do, put it on the deck, and get the show running.
+
+It grew from there:
+
+- **Ready-made recipes:** source keys for each M/E and mode, flying keys, T-bar dials, SuperSource boxes, tally keys and combo keys, plus a wizard for building new ones
+- **Saved shows:** keep every deck and page for a gig in one file, and open it for the next one
+- **Multiple decks:** lay out several Stream Decks side by side, with a Home page that builds its own navigation
+- **Your other gear:** drop in the presets from your Companion connections
+- **A built-in icon pack**, plus copy, paste, undo and right-click menus
+
+It doesn't replace Companion. You still need Companion, and it's still where you set up connections and fine-tune actions and feedbacks. Show Builder handles the repetitive part so you can start from a page that's nearly done.
+
+Thanks for checking it out. Please visit [downstage.systems](https://downstage.systems/) to see some hardware projects that help make show day easier.
+
+Have an idea or a question? Join the [Discussions](https://github.com/Downstage-Systems/show-builder/discussions).
+
+- Rob Spradling, Downstage Systems LLC
 
 ## Download
 
