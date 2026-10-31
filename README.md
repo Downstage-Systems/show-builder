@@ -12,7 +12,7 @@ It grew from there:
 - **Saved shows:** keep every deck and page for a gig in one file, and open it for the next one
 - **Multiple decks:** lay out several Stream Decks side by side, with a Home page that builds its own navigation
 - **Your other gear:** drop in the presets from your Companion connections
-- **A built-in icon pack**, plus copy, paste, undo and right-click menus
+- **A built-in icon pack**, plus undo and right-click menus
 
 It doesn't replace Companion. You still need Companion, and it's still where you set up connections and fine-tune actions and feedbacks. Show Builder handles the repetitive part so you can start from a page that's nearly done.
 
