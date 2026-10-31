@@ -14,11 +14,11 @@ It grew from there:
 - **Your other gear:** drop in the presets from your Companion connections
 - **A built-in icon pack**, plus undo and right-click menus
 
+Show Builder has been built around the ATEM so far, but other projects are in the works. Have a suggestion? [Reach out in the Discussions](https://github.com/Downstage-Systems/show-builder/discussions).
+
 It doesn't replace Companion. You still need Companion, and it's still where you set up connections and fine-tune actions and feedbacks. Show Builder handles the repetitive part so you can start from a page that's nearly done.
 
 Thanks for checking it out. Please visit [downstage.systems](https://downstage.systems/) to see some hardware projects that help make show day easier.
-
-Have an idea or a question? Join the [Discussions](https://github.com/Downstage-Systems/show-builder/discussions).
 
 - Rob Spradling, Downstage Systems LLC
 
