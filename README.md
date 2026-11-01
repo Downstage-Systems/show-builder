@@ -25,10 +25,10 @@ Thanks for checking it out. Please visit [downstage.systems](https://downstage.s
 
 ## Download
 
-[Downstage-Show-Builder.zip](https://github.com/Downstage-Systems/show-builder/raw/main/Downstage-Show-Builder.zip)
-(version 2026.10.30, Apple Silicon Macs)
+[Download for Mac](https://github.com/Downstage-Systems/show-builder/releases/latest/download/Downstage-Show-Builder.dmg)
+(Apple Silicon Macs)
 
-1. Unzip it and drag the app to Applications.
+1. Open the disk image and drag the app to Applications.
 2. Open it. macOS will block it the first time: go to System Settings > Privacy & Security and choose Open Anyway.
 3. Allow Local Network access if macOS asks, so the app can reach Companion.
 
