@@ -9,8 +9,10 @@ As a Blackmagic ATEM user, I got tired of rebuilding the same multi-step, feedba
 It grew from there:
 
 - **Send straight to Companion:** put a page directly onto a Companion page, with no fiddling in the import/export screen
-- **Ready-made recipes:** source keys for each M/E and mode, flying keys, T-bar dials, SuperSource boxes, tally keys and combo keys, plus a wizard for building new ones
+- **Recipes:** PVW, HOT, CUT and AUTO source keys for each M/E, plus a wizard for building your own
+- **Ready-made keys:** flying keys, T-bar dials, SuperSource boxes, tally keys, live status keys and combo keys
 - **Saved shows:** keep every deck and page for a gig in one file, and open it for the next one
+- **Import pages:** bring in pages from a config file or your running Companion
 - **Multiple decks:** lay out several Stream Decks side by side, with a Home page that builds its own navigation
 - **Your other gear:** drop in the presets from your Companion connections
 - **A built-in icon pack**, plus undo and right-click menus
@@ -29,7 +31,7 @@ Thanks for checking it out. Please visit [downstage.systems](https://downstage.s
 (Apple Silicon Macs)
 
 1. Open the disk image and drag the app to Applications.
-2. Open it. macOS will block it the first time: go to System Settings > Privacy & Security and choose Open Anyway.
+2. Open it.
 3. Allow Local Network access if macOS asks, so the app can reach Companion.
 
-You need Bitfocus Companion with a Blackmagic ATEM connection named exactly `ATEM`.
+You need Bitfocus Companion 5. For switcher keys, you also need a Blackmagic ATEM connection in Companion.
