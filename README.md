@@ -10,6 +10,7 @@ It grew from there:
 
 - **Send straight to Companion:** put a page directly onto a Companion page, with no fiddling in the import/export screen
 - **Recipes:** PVW, HOT, CUT and AUTO source keys for each M/E, plus a wizard for building your own
+- **Option-click combine:** hold Option, click keys in the order they should run, and let go. They become one multi-step key you can rearrange and add to
 - **Ready-made keys:** flying keys, T-bar dials, SuperSource boxes, tally keys, live status keys and combo keys
 - **Saved shows:** keep every deck and page for a gig in one file, and open it for the next one
 - **Import pages:** bring in pages from a config file or your running Companion
